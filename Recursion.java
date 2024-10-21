@@ -1,6 +1,6 @@
 //a fuction callses itself in func def is called recusion
 // binary sort is usuind.
-public class Recurtion {
+public class Recursion {
     public static void main(String[] args) {
 
         natprint(12);

@@ -21,6 +21,6 @@ public class ExceptionHandling {
         finally {
             System.out.println("this will run everytime");// even with erreor without error.
         }
-        System.out.println("hello");
+        System.out.println("next process");
     }
 }
